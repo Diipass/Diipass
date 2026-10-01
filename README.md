@@ -18,11 +18,11 @@ Estou aberto a oportunidades em **desenvolvimento de software e TI**.
       <a href="https://cirurgiablindada.com/">Acessar site</a> · <a href="https://github.com/Diipass/portfolio/blob/main/projects/cirurgia-blindada.md">Ver projeto</a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/Diipass/portfolio/blob/main/projects/femina-internacao.md"><img src="https://raw.githubusercontent.com/Diipass/portfolio/main/assets/femina-logo.svg" alt="Logo do Fêmina Day Clinic" width="100%"></a><br>
+      <a href="https://github.com/Diipass/portfolio/blob/main/projects/femina-internacao.md"><img src="https://raw.githubusercontent.com/Diipass/portfolio/main/assets/femina-formulario-publico.png" alt="Captura do formulário inicial do MVP Fêmina Internação" width="100%"></a><br>
       <b>Fêmina Internação</b><br>
       <sub>Pré-internação hospitalar, documentos e painel da equipe.</sub><br>
       <sub>PHP · MySQL/MariaDB · JavaScript</sub><br>
-      <sub>Em testes; apresentação pública pela logo.</sub>
+      <sub>Em testes; captura pública com dados não preenchidos.</sub>
     </td>
   </tr>
   <tr>
@@ -34,7 +34,7 @@ Estou aberto a oportunidades em **desenvolvimento de software e TI**.
       <sub>Sem demonstração pública para o portfólio.</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/Diipass/portfolio/blob/main/projects/cicatrix.md"><img src="https://raw.githubusercontent.com/Diipass/portfolio/main/assets/cicatrix.svg" alt="Capa ilustrativa do projeto Cicatrix" width="100%"></a><br>
+      <a href="https://github.com/Diipass/portfolio/blob/main/projects/cicatrix.md"><img src="https://raw.githubusercontent.com/Diipass/portfolio/main/assets/cicatrix-hero.webp" alt="Captura da landing page local do Cicatrix" width="100%"></a><br>
       <b>Cicatrix</b><br>
       <sub>Landing e formulário para protocolos de cuidado de cicatrizes.</sub><br>
       <sub>HTML · CSS · JavaScript</sub><br>
