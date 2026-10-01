@@ -50,11 +50,12 @@ Estou aberto a oportunidades em **desenvolvimento de software e TI**.
       <sub>Publicação em preparação.</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/Diipass/portfolio/blob/main/projects/brasa-e-fogao.md"><img src="https://raw.githubusercontent.com/Diipass/portfolio/main/assets/brasa-identidade.jpg" alt="Identidade visual do Brasa e Fogão" width="100%"></a><br>
+      <a href="https://github.com/Diipass/portfolio/blob/main/projects/brasa-e-fogao.md"><img src="https://raw.githubusercontent.com/Diipass/portfolio/main/assets/brasa-e-fogao-capa.png" alt="Capa Brasas e Fogão enviada para o portfólio" width="100%"></a><br>
       <b>Brasa e Fogão</b><br>
       <sub>Biosite para apresentar o restaurante e seus canais.</sub><br>
-      <sub>Web · experiência mobile</sub><br>
-      <sub>Projeto local, ainda sem site público.</sub>
+      <sub>React · TypeScript · TanStack Start</sub><br>
+      <sub>Tailwind CSS · Vite</sub><br>
+      <sub>Biosite local, ainda sem link público.</sub>
     </td>
   </tr>
 </table>
