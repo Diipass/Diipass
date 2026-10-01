@@ -92,6 +92,10 @@ O [portfólio](https://github.com/Diipass/portfolio) explica o contexto e minha 
 - **Operação:** diagnóstico de falhas, ajustes a partir do uso real, publicação e manutenção de aplicações.
 - **Em evolução:** fluxo de trabalho com Git e GitHub.
 
-## Contato
+---
 
-[llucasdpcf@gmail.com](mailto:llucasdpcf@gmail.com)
+## Vamos conversar
+
+Tem uma vaga ou um projeto em mente? Me chama:
+
+[![Instagram: @_diipass](https://img.shields.io/badge/%40_diipass-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/_diipass/) [![E-mail: llucasdpcf@gmail.com](https://img.shields.io/badge/llucasdpcf%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:llucasdpcf@gmail.com)
