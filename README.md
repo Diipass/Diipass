@@ -11,16 +11,18 @@ Estou aberto a oportunidades em **desenvolvimento de software e TI**.
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/Diipass/portfolio/blob/main/projects/cirurgia-blindada.md"><img src="https://raw.githubusercontent.com/Diipass/portfolio/main/assets/cirurgia-blindada.svg" alt="Capa ilustrativa do projeto Cirurgia Blindada" width="100%"></a><br>
+      <a href="https://github.com/Diipass/portfolio/blob/main/projects/cirurgia-blindada.md"><img src="https://raw.githubusercontent.com/Diipass/portfolio/main/assets/cirurgia-blindada-site.webp" alt="Imagem da página pública do Cirurgia Blindada" width="100%"></a><br>
       <b>Cirurgia Blindada</b><br>
       <sub>Contratos, pagamentos PIX, assinaturas e gestão operacional.</sub><br>
-      <sub>PHP · MySQL · JavaScript · APIs</sub>
+      <sub>PHP · MySQL · JavaScript · APIs</sub><br>
+      <a href="https://cirurgiablindada.com/">Acessar site</a> · <a href="https://github.com/Diipass/portfolio/blob/main/projects/cirurgia-blindada.md">Ver projeto</a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/Diipass/portfolio/blob/main/projects/femina-internacao.md"><img src="https://raw.githubusercontent.com/Diipass/portfolio/main/assets/femina-internacao.svg" alt="Capa ilustrativa do projeto Fêmina Internação" width="100%"></a><br>
+      <a href="https://github.com/Diipass/portfolio/blob/main/projects/femina-internacao.md"><img src="https://raw.githubusercontent.com/Diipass/portfolio/main/assets/femina-logo.svg" alt="Logo do Fêmina Day Clinic" width="100%"></a><br>
       <b>Fêmina Internação</b><br>
       <sub>Pré-internação hospitalar, documentos e painel da equipe.</sub><br>
-      <sub>PHP · MySQL/MariaDB · JavaScript</sub>
+      <sub>PHP · MySQL/MariaDB · JavaScript</sub><br>
+      <sub>Em testes; apresentação pública pela logo.</sub>
     </td>
   </tr>
   <tr>
@@ -28,27 +30,31 @@ Estou aberto a oportunidades em **desenvolvimento de software e TI**.
       <a href="https://github.com/Diipass/portfolio/blob/main/projects/dashboard-trafego.md"><img src="https://raw.githubusercontent.com/Diipass/portfolio/main/assets/dashboard-trafego.svg" alt="Capa ilustrativa do projeto Dashboard de Tráfego" width="100%"></a><br>
       <b>Dashboard de Tráfego</b><br>
       <sub>Clientes, contas de anúncios e relatórios de marketing.</sub><br>
-      <sub>Laravel · PHP · integrações</sub>
+      <sub>Laravel · PHP · integrações</sub><br>
+      <sub>Sem demonstração pública para o portfólio.</sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/Diipass/portfolio/blob/main/projects/cicatrix.md"><img src="https://raw.githubusercontent.com/Diipass/portfolio/main/assets/cicatrix.svg" alt="Capa ilustrativa do projeto Cicatrix" width="100%"></a><br>
       <b>Cicatrix</b><br>
       <sub>Landing e formulário para protocolos de cuidado de cicatrizes.</sub><br>
-      <sub>HTML · CSS · JavaScript</sub>
+      <sub>HTML · CSS · JavaScript</sub><br>
+      <sub>Prévia visual; site ainda não publicado.</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/Diipass/portfolio/blob/main/projects/quanta-corp.md"><img src="https://raw.githubusercontent.com/Diipass/portfolio/main/assets/quanta-corp.svg" alt="Capa ilustrativa do projeto Quanta Corp" width="100%"></a><br>
+      <a href="https://github.com/Diipass/portfolio/blob/main/projects/quanta-corp.md"><img src="https://raw.githubusercontent.com/Diipass/portfolio/main/assets/quanta-site.jpg" alt="Imagem da landing page local da Quanta Corp" width="100%"></a><br>
       <b>Quanta Corp</b><br>
       <sub>Simulador de receita para parceiros em versão demonstrativa.</sub><br>
-      <sub>HTML · CSS · JavaScript</sub>
+      <sub>HTML · CSS · JavaScript · Node.js</sub><br>
+      <sub>Publicação em preparação.</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/Diipass/portfolio/blob/main/projects/brasa-e-fogao.md"><img src="https://raw.githubusercontent.com/Diipass/portfolio/main/assets/brasa-e-fogao.svg" alt="Capa ilustrativa do projeto Brasa e Fogão" width="100%"></a><br>
+      <a href="https://github.com/Diipass/portfolio/blob/main/projects/brasa-e-fogao.md"><img src="https://raw.githubusercontent.com/Diipass/portfolio/main/assets/brasa-identidade.jpg" alt="Identidade visual do Brasa e Fogão" width="100%"></a><br>
       <b>Brasa e Fogão</b><br>
       <sub>Biosite para apresentar o restaurante e seus canais.</sub><br>
-      <sub>Web · experiência mobile</sub>
+      <sub>Web · experiência mobile</sub><br>
+      <sub>Projeto local, ainda sem site público.</sub>
     </td>
   </tr>
 </table>
@@ -58,6 +64,7 @@ O [portfólio](https://github.com/Diipass/portfolio) explica o contexto e minha 
 ## Experiência prática
 
 - **Web e sistemas:** PHP, HTML, CSS, JavaScript, Laravel e interfaces responsivas em projetos diferentes.
+- **Node.js:** servidor e lógica do simulador Quanta Corp; também usado em ferramentas de desenvolvimento em outros projetos.
 - **Dados e integrações:** MySQL/MariaDB, SQL, APIs REST e GraphQL, webhooks e automação de documentos.
 - **Operação:** diagnóstico de falhas, ajustes a partir do uso real, publicação e manutenção de aplicações.
 - **Em evolução:** fluxo de trabalho com Git e GitHub.
