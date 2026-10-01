@@ -1,6 +1,6 @@
 ![Banner de Lucas de Paula](./banner-about-me.jpeg)
 
-# Lucas de Paula
+# Opa, Eu sou o Lucas 🙋‍♂️
 
 **Desenvolvedor de Software | Backend, APIs e Integrações | AI Worker**
 
