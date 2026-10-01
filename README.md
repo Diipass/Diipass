@@ -1,10 +1,14 @@
 # Lucas de Paula
 
-**Desenvolvedor de Software | Backend, APIs e Integrações**
+**Desenvolvedor de Software | Backend, APIs e Integrações | AI Worker**
 
 Construo e evoluo soluções digitais para problemas reais, de formulários e painéis a fluxos com pagamentos, documentos e APIs. Uso ferramentas de IA como apoio no desenvolvimento e participo da definição dos requisitos, dos testes e dos ajustes necessários para cada operação.
 
 Estou aberto a oportunidades em **desenvolvimento de software e TI**.
+
+**Hardware e suporte técnico:** Possuo experiência prática em montagem e desmontagem de computadores, manutenção preventiva, limpeza de equipamentos e testes de componentes para identificar falhas.
+
+**Infraestrutura e servidores (em aprendizado):** conhecimentos iniciais de Linux e SSH; estudando configuração de ambientes e publicação de aplicações web para aplicar em projetos futuros.
 
 ## Projetos em destaque
 
