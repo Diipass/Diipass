@@ -9,7 +9,7 @@ Construo e evoluo soluções digitais para problemas reais, de formulários e pa
 Estou aberto a oportunidades em **desenvolvimento de software e TI**.
 
 - 🎨 **Front-end:** HTML, CSS, JavaScript, React e TypeScript em formulários, landing pages e interfaces responsivas.
-- ⚙️ **Back-end e dados:** PHP, Laravel, Node.js no QuantaCorp, MySQL/MariaDB e SQL.
+- ⚙️ **Back-end e dados:** PHP, Laravel, Node.js, MySQL/MariaDB e SQL.
 - 🔗 **APIs e automações:** integrações com Asaas (PIX), Autentique e ViaCEP; webhooks, APIs REST/GraphQL e geração de PDFs.
 - 🧩 **Experiência prática:** sistemas de pré-internação, gestão de contratos, dashboards administrativos e simuladores.
 - 🖥️ **Hardware e suporte técnico:** montagem e desmontagem de computadores, manutenção preventiva, limpeza e testes de componentes para identificar falhas, formatação de computadores otimização de sistema operacional.
