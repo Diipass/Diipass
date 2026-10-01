@@ -11,7 +11,7 @@ Estou aberto a oportunidades em **desenvolvimento de software e TI**.
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/Diipass/portfolio/blob/main/projects/cirurgia-blindada.md"><img src="https://raw.githubusercontent.com/Diipass/portfolio/main/assets/cirurgia-blindada-site.webp" alt="Imagem da página pública do Cirurgia Blindada" width="100%"></a><br>
+      <a href="https://github.com/Diipass/portfolio/blob/main/projects/cirurgia-blindada.md"><img src="https://raw.githubusercontent.com/Diipass/portfolio/main/assets/cirurgia-blindada-capa.png" alt="Captura da página pública do Cirurgia Blindada" width="100%"></a><br>
       <b>Cirurgia Blindada</b><br>
       <sub>Contratos, pagamentos PIX, assinaturas e gestão operacional.</sub><br>
       <sub>PHP · MySQL · JavaScript · APIs</sub><br>
