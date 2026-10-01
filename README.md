@@ -1,4 +1,4 @@
-![Banner de Lucas de Paula](./banner-about-me.png)
+![Banner de Lucas de Paula](./banner-about-me.jpeg)
 
 # Lucas de Paula
 
