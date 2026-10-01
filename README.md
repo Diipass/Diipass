@@ -2,7 +2,7 @@
 
 # Opa, Eu sou o Lucas 🙋‍♂️
 
-**Desenvolvedor de Software | Backend, APIs e Integrações | AI Worker**
+**Desenvolvedor de Software | Backend, APIs e Integrações | AI Worker | Cursando Sistemas de Informação**
 
 Construo e evoluo soluções digitais para problemas reais, de formulários e painéis a fluxos com pagamentos, documentos e APIs. Uso ferramentas de IA como apoio no desenvolvimento e participo da definição dos requisitos, dos testes e dos ajustes necessários para cada operação.
 
