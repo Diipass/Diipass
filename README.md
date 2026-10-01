@@ -1,3 +1,5 @@
+![Banner de Lucas de Paula](./banner-about-me.png)
+
 # Lucas de Paula
 
 **Desenvolvedor de Software | Backend, APIs e Integrações | AI Worker**
