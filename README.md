@@ -12,7 +12,7 @@ Estou aberto a oportunidades em **desenvolvimento de software e TI**.
 - ⚙️ **Back-end e dados:** PHP, Laravel, Node.js no QuantaCorp, MySQL/MariaDB e SQL.
 - 🔗 **APIs e automações:** integrações com Asaas (PIX), Autentique e ViaCEP; webhooks, APIs REST/GraphQL e geração de PDFs.
 - 🧩 **Experiência prática:** sistemas de pré-internação, gestão de contratos, dashboards administrativos e simuladores.
-- 🖥️ **Hardware e suporte técnico:** montagem e desmontagem de computadores, manutenção preventiva, limpeza e testes de componentes para identificar falhas.
+- 🖥️ **Hardware e suporte técnico:** montagem e desmontagem de computadores, manutenção preventiva, limpeza e testes de componentes para identificar falhas, formatação de computadores otimização de sistema operacional.
 - 🌱 **Infraestrutura e servidores (em aprendizado):** conhecimentos iniciais de Linux e SSH; estudo de configuração de ambientes e publicação de aplicações web para projetos futuros.
 
 ## Projetos em destaque
