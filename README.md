@@ -8,9 +8,12 @@ Construo e evoluo soluções digitais para problemas reais, de formulários e pa
 
 Estou aberto a oportunidades em **desenvolvimento de software e TI**.
 
-**Hardware e suporte técnico:** Possuo experiência prática em montagem e desmontagem de computadores, manutenção preventiva, limpeza de equipamentos e testes de componentes para identificar falhas.
-
-**Infraestrutura e servidores (em aprendizado):** conhecimentos iniciais de Linux e SSH; estudando configuração de ambientes e publicação de aplicações web para aplicar em projetos futuros.
+- 🎨 **Front-end:** HTML, CSS, JavaScript, React e TypeScript em formulários, landing pages e interfaces responsivas.
+- ⚙️ **Back-end e dados:** PHP, Laravel, Node.js no QuantaCorp, MySQL/MariaDB e SQL.
+- 🔗 **APIs e automações:** integrações com Asaas (PIX), Autentique e ViaCEP; webhooks, APIs REST/GraphQL e geração de PDFs.
+- 🧩 **Experiência prática:** sistemas de pré-internação, gestão de contratos, dashboards administrativos e simuladores.
+- 🖥️ **Hardware e suporte técnico:** montagem e desmontagem de computadores, manutenção preventiva, limpeza e testes de componentes para identificar falhas.
+- 🌱 **Infraestrutura e servidores (em aprendizado):** conhecimentos iniciais de Linux e SSH; estudo de configuração de ambientes e publicação de aplicações web para projetos futuros.
 
 ## Projetos em destaque
 
