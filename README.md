@@ -67,17 +67,17 @@ Tecnologias presentes nos meus projetos:
     <td width="50%" valign="top">
       <a href="https://github.com/Diipass/portfolio/blob/main/projects/quanta-corp.md"><img src="https://raw.githubusercontent.com/Diipass/portfolio/main/assets/quanta-site.jpg" alt="Imagem da landing page local da Quanta Corp" width="100%"></a><br>
       <b>Quanta Corp</b><br>
-      <sub>Simulador de receita para parceiros em versão demonstrativa.</sub><br>
-      <sub>HTML · CSS · JavaScript · Node.js</sub><br>
-      <sub>Publicação em preparação.</sub>
+      <sub>Site e simulador de receita para parceiros.</sub><br>
+      <sub>HTML · CSS · JavaScript · Node.js (demonstração)</sub><br>
+      <a href="https://quantasimuladorlojas.com.br/">Acessar site</a> · <a href="https://quantasimuladorlojas.com.br/simulador">Abrir simulador</a> · <a href="https://github.com/Diipass/portfolio/blob/main/projects/quanta-corp.md">Ver projeto</a>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/Diipass/portfolio/blob/main/projects/brasa-e-fogao.md"><img src="https://raw.githubusercontent.com/Diipass/portfolio/main/assets/brasa-e-fogao-capa.png" alt="Capa Brasas e Fogão enviada para o portfólio" width="100%"></a><br>
       <b>Brasa e Fogão</b><br>
-      <sub>Biosite para apresentar o restaurante e seus canais.</sub><br>
-      <sub>React · TypeScript · TanStack Start</sub><br>
+      <sub>Site do restaurante publicado; biosite de links em desenvolvimento.</sub><br>
+      <sub>Biosite local: React · TypeScript · TanStack Start</sub><br>
       <sub>Tailwind CSS · Vite</sub><br>
-      <sub>Biosite local, ainda sem link público.</sub>
+      <a href="https://brasasefogao.com.br/">Acessar site</a> · <a href="https://github.com/Diipass/portfolio/blob/main/projects/brasa-e-fogao.md">Ver projeto</a>
     </td>
   </tr>
 </table>
